@@ -1,0 +1,31 @@
+Stages
+1. No lipsync, only storyboarded video & accurate dialogue
+- Langchain pipeline
+- No human in the loop
+- Direct programmed str to video
+
+2. Lipsync and basic UI
+- Langchain pipeline
+- No human in the loop
+- User input text to video
+
+3. Human in the loop, Live portrait, and manual video editing
+- Langgraph agents
+- HUMAN IN THE LOOP
+- User input text to video
+- Manual editing in U
+
+4. beautiful ui
+
+
+DOCS:
+
+LUMA VIDEO GEN: 
+- https://docs.lumalabs.ai/docs/python-video-generation
+
+LANGCHAIN TOOLS: 
+- https://python.langchain.com/docs/how_to/tool_calling/
+- https://python.langchain.com/docs/how_to/custom_tools/
+
+AGENT (STAGE 3)
+- https://python.langchain.com/docs/tutorials/agents/
